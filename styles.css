@@ -1,0 +1,36 @@
+body{
+  background-color:#353a42;
+  /*  #40464f;*/
+  text-align: center;
+}
+h1{
+  color: #62bd88;
+  font-size: 5rem;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+h3{
+  display: inline-block;
+  text-align: center;
+  margin: 10px 80px 30px 80px;
+  color: #62bd88;
+
+}
+h6{
+  color: white;
+}
+.player{
+  display: block;
+  text-align: center;
+
+}
+.img1{
+  width: 15%;
+  margin: 0px 40px;
+  padding-bottom:  30px;
+}
+.img2{
+  width: 15%;
+  margin: 0px 40px;
+  padding-bottom:  30px;
+}
